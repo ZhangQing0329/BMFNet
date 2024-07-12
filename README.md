@@ -1,4 +1,4 @@
-# AFINet
+# BMFNet
 
 This repository includes the trained model, code and results for our paper:   
 BMFNet: Bifurcated multi-modal fusion network for RGB-D salient object detection. Image and Vision Computing, 2024.   
